@@ -1,0 +1,1 @@
+<html><head><title>Моя страница</title><head><h1>Привет, Я Колян!<BR />Закурить есть?</h1></head>/body>
